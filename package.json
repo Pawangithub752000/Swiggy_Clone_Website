@@ -1,0 +1,14 @@
+{
+    "name": "swiggy-web-app-clone",
+    "version": "1.0.0",
+    "description": "swiggy-web-app-json-server",
+    "main": "server.js",
+    "scripts": { 
+      "start": "node server.js" 
+    },
+    "author": "Akash",
+    "license": "ISC",
+    "dependencies": {
+      "json-server": "^0.16.3"
+    }
+  }
